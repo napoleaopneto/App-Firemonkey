@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/06 17:05:03.000.283,=D:\Projetos\neto\Desktop\TopSappDL2\Unit1.pas</Transaction>
+    <Transaction>2023/02/20 15:01:19.000.707,=D:\Projetos\neto\Desktop\TopSappDL2\Unit1.pas</Transaction>
+    <Transaction>2023/02/28 08:03:39.000.035,=D:\Projetos\neto\Desktop\TopSappDL2\Unit1.pas</Transaction>
+    <Transaction>2023/06/05 16:43:46.000.750,=D:\Projetos\neto\Desktop\TopSappDL2\Unit1.pas</Transaction>
+    <Transaction>2023/06/06 09:36:21.000.131,=D:\Projetos\neto\Desktop\TopSappDL2\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 12:58:47.000.923,=D:\Projetos\neto\Desktop\TopSappDL2\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 12:59:56.000.303,D:\Exemplos\App\src\View\View.Principal.pas=D:\Projetos\neto\Desktop\TopSappDL2\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 12:59:56.000.303,D:\Exemplos\App\src\View\View.Principal.fmx=D:\Projetos\neto\Desktop\TopSappDL2\Unit1.fmx</Transaction>
+    <Transaction>2023/07/20 13:05:35.000.962,D:\Exemplos\App\src\App.dproj=D:\Projetos\neto\Desktop\TopSappDL2\Project1.dproj</Transaction>
+    <Transaction>2023/07/20 13:52:55.000.667,=D:\Exemplos\App\src\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 13:53:22.000.615,D:\Exemplos\App\src\View\View.Menu.fmx=D:\Exemplos\App\src\Unit1.fmx</Transaction>
+    <Transaction>2023/07/20 13:53:22.000.615,D:\Exemplos\App\src\View\View.Menu.pas=D:\Exemplos\App\src\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 14:06:34.000.766,=D:\Exemplos\App\src\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 14:06:54.000.590,D:\Exemplos\App\src\View\View.Menu.Frame.pas=D:\Exemplos\App\src\Unit1.pas</Transaction>
+    <Transaction>2023/07/20 14:06:54.000.590,D:\Exemplos\App\src\View\View.Menu.Frame.fmx=D:\Exemplos\App\src\Unit1.fmx</Transaction>
+    <Transaction>2023/07/21 13:27:55.000.093,=D:\Exemplos\App\src\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 13:28:48.000.409,D:\Exemplos\App\src\Unit1.fmx=D:\Exemplos\App\src\Base\Frame.Base.fmx</Transaction>
+    <Transaction>2023/07/21 13:28:48.000.409,D:\Exemplos\App\src\Unit1.pas=D:\Exemplos\App\src\Base\Frame.Base.pas</Transaction>
+    <Transaction>2023/07/21 13:29:39.000.707,=D:\Exemplos\App\src\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 13:30:58.000.720,D:\Exemplos\App\src\View\View.Menu.pas=</Transaction>
+    <Transaction>2023/07/21 13:31:27.000.928,D:\Exemplos\App\src\Unit1.pas=D:\Exemplos\App\src\View\View.Menu.pas</Transaction>
+    <Transaction>2023/07/21 13:31:27.000.928,D:\Exemplos\App\src\Unit1.fmx=D:\Exemplos\App\src\View\View.Menu.fmx</Transaction>
+    <Transaction>2023/07/21 13:57:44.000.094,=D:\Exemplos\App\src\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 13:58:17.000.240,D:\Exemplos\App\src\Unit1.fmx=D:\Exemplos\App\src\View\View.Home.Frame.fmx</Transaction>
+    <Transaction>2023/07/21 13:58:17.000.240,D:\Exemplos\App\src\Unit1.pas=D:\Exemplos\App\src\View\View.Home.Frame.pas</Transaction>
+    <Transaction>2023/07/21 14:06:10.000.323,=D:\Exemplos\App\src\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 14:06:25.000.560,D:\Exemplos\App\src\Unit1.fmx=D:\Exemplos\App\src\View\View.CartaoDigital.fmx</Transaction>
+    <Transaction>2023/07/21 14:06:25.000.560,D:\Exemplos\App\src\Unit1.pas=D:\Exemplos\App\src\View\View.CartaoDigital.pas</Transaction>
+    <Transaction>2023/07/21 14:11:24.000.177,=D:\Exemplos\App\src\Unit1.pas</Transaction>
+    <Transaction>2023/07/21 14:11:36.000.823,D:\Exemplos\App\src\Unit1.fmx=D:\Exemplos\App\src\View\View.Planos.fmx</Transaction>
+    <Transaction>2023/07/21 14:11:36.000.823,D:\Exemplos\App\src\Unit1.pas=D:\Exemplos\App\src\View\View.Planos.pas</Transaction>
+  </Transactions>
+</BorlandProject>

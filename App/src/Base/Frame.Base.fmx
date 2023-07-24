@@ -1,0 +1,199 @@
+object FrameBase: TFrameBase
+  Size.Width = 350.000000000000000000
+  Size.Height = 605.000000000000000000
+  Size.PlatformDefault = False
+  object vsbPrincipal: TVertScrollBox
+    Align = Client
+    Size.Width = 350.000000000000000000
+    Size.Height = 605.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 350.000000000000000000
+    Viewport.Height = 605.000000000000000000
+    object recPrincipal: TRectangle
+      Align = Client
+      Fill.Color = xFFE9E9E9
+      Size.Width = 350.000000000000000000
+      Size.Height = 605.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+      object LyPrincipal: TLayout
+        Align = Client
+        Size.Width = 350.000000000000000000
+        Size.Height = 605.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object LyPrincipalTop: TLayout
+          Align = Top
+          Size.Width = 350.000000000000000000
+          Size.Height = 209.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+          object recTop: TRectangle
+            Align = Client
+            Fill.Color = xFF1E8EFC
+            Size.Width = 350.000000000000000000
+            Size.Height = 209.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Kind = None
+            XRadius = 40.000000000000000000
+            YRadius = 40.000000000000000000
+            object recTopTop: TRectangle
+              Align = Top
+              Fill.Color = xFF1E8EFC
+              Size.Width = 350.000000000000000000
+              Size.Height = 49.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Kind = None
+            end
+          end
+        end
+        object LyPrincipalCentro: TLayout
+          Align = Client
+          Size.Width = 350.000000000000000000
+          Size.Height = 396.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 1
+          object recBotton: TRectangle
+            Align = Bottom
+            Fill.Color = xFF1E8EFC
+            Position.Y = 276.000000000000000000
+            Size.Width = 350.000000000000000000
+            Size.Height = 120.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Kind = None
+            XRadius = 30.000000000000000000
+            YRadius = 30.000000000000000000
+            object recBottonBotton: TRectangle
+              Align = Bottom
+              Fill.Color = xFF1E8EFC
+              Position.Y = 80.000000000000000000
+              Size.Width = 350.000000000000000000
+              Size.Height = 40.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Kind = None
+            end
+          end
+        end
+      end
+      object LyPrincipalControlesControles: TLayout
+        Align = Client
+        Size.Width = 350.000000000000000000
+        Size.Height = 605.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        object LyControles: TLayout
+          Align = Client
+          Margins.Left = 10.000000000000000000
+          Margins.Top = 10.000000000000000000
+          Margins.Right = 10.000000000000000000
+          Margins.Bottom = 10.000000000000000000
+          Size.Width = 330.000000000000000000
+          Size.Height = 507.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 0
+        end
+        object LyMenuSair: TLayout
+          Align = Top
+          Margins.Left = 15.000000000000000000
+          Margins.Top = 5.000000000000000000
+          Position.X = 15.000000000000000000
+          Position.Y = 5.000000000000000000
+          Size.Width = 335.000000000000000000
+          Size.Height = 73.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 1
+          object LyBtnSair: TLayout
+            Align = Left
+            HitTest = True
+            Size.Width = 55.000000000000000000
+            Size.Height = 73.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 0
+            OnClick = LyBtnSairClick
+            object btnVoltar: TPath
+              Align = Center
+              Data.Path = {
+                1F0000000000000000004041AAF1104101000000000040410000D04002000000
+                00004041D9CEC74002000000986E3E41B29DBF4002000000DF4F3B411058B940
+                0200000027313841A01AB34002000000931834410000B0400200000000003041
+                0000B040020000006DE72B410000B04002000000D9CE2741A01AB34002000000
+                21B024411058B9400100000000008040000040410100000021B02441F0A79141
+                02000000D9CE27414C379341020000006DE72B41000094410200000000003041
+                0000944102000000931834410000944102000000273138414C37934102000000
+                DF4F3B41F0A7914102000000976E3E419418904102000000000040413D0A8E41
+                020000000000404100008C4101000000000040410E2D70410200000000006C41
+                95437141020000003E0A8E41643B7941020000000000A0410000984101000000
+                0000A04100009041020000000000A0413BDF5541020000000000844179E91841
+                0200000000004041AAF110410300000000004041AAF11041}
+              Fill.Color = claWhite
+              HitTest = False
+              Margins.Right = 15.000000000000000000
+              Size.Width = 42.000000000000000000
+              Size.Height = 36.000000000000000000
+              Size.PlatformDefault = False
+              Stroke.Kind = None
+            end
+          end
+          object LyDescricaoTop: TLayout
+            Align = Client
+            Size.Width = 280.000000000000000000
+            Size.Height = 73.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 1
+            object LyDescTop: TLayout
+              Align = Top
+              Size.Width = 280.000000000000000000
+              Size.Height = 36.000000000000000000
+              Size.PlatformDefault = False
+              TabOrder = 1
+              object lbDescMenu: TSkLabel
+                Align = Client
+                Size.Width = 280.000000000000000000
+                Size.Height = 36.000000000000000000
+                Size.PlatformDefault = False
+                StyledSettings = [Family, Size, Style]
+                TextSettings.FontColor = claWhite
+                Words = <
+                  item
+                    Font.Size = 22.000000000000000000
+                    StyledSettings = [Family, Style, FontColor]
+                    Text = 'lbDescMenu'
+                  end>
+              end
+              object Line1: TLine
+                Align = Client
+                LineType = Bottom
+                Margins.Right = 20.000000000000000000
+                Size.Width = 260.000000000000000000
+                Size.Height = 36.000000000000000000
+                Size.PlatformDefault = False
+                Stroke.Color = xFFF2EFEF
+              end
+            end
+            object LyDescBoton: TLayout
+              Align = Top
+              Position.Y = 36.000000000000000000
+              Size.Width = 280.000000000000000000
+              Size.Height = 36.000000000000000000
+              Size.PlatformDefault = False
+              TabOrder = 0
+              object lbDescOutros: TSkLabel
+                Align = Client
+                Size.Width = 280.000000000000000000
+                Size.Height = 36.000000000000000000
+                Size.PlatformDefault = False
+                StyledSettings = [Family, Size, Style]
+                TextSettings.FontColor = claWhite
+                Words = <
+                  item
+                    Text = 'lbDescMenu'
+                  end>
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+end

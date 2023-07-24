@@ -1,0 +1,26 @@
+inherited FramePlanos: TFramePlanos
+  inherited vsbPrincipal: TVertScrollBox
+    Viewport.Width = 350.000000000000000000
+    Viewport.Height = 605.000000000000000000
+    inherited recPrincipal: TRectangle
+      inherited LyPrincipalControlesControles: TLayout
+        inherited LyMenuSair: TLayout
+          inherited LyDescricaoTop: TLayout
+            inherited LyDescBoton: TLayout
+              Margins.Left = 2.000000000000000000
+              Margins.Top = 2.000000000000000000
+              Margins.Right = 2.000000000000000000
+              Margins.Bottom = 2.000000000000000000
+              Position.X = 2.000000000000000000
+              Position.Y = 38.000000000000000000
+              Size.Width = 276.000000000000000000
+              inherited lbDescOutros: TSkLabel
+                Size.Width = 276.000000000000000000
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+end

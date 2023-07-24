@@ -1,0 +1,24 @@
+inherited FrameCartaoDigital: TFrameCartaoDigital
+  inherited vsbPrincipal: TVertScrollBox
+    Viewport.Width = 350.000000000000000000
+    Viewport.Height = 605.000000000000000000
+    inherited recPrincipal: TRectangle
+      inherited LyPrincipalControlesControles: TLayout
+        inherited LyControles: TLayout
+          object Label1: TLabel
+            Align = Center
+            StyledSettings = [Family, Style]
+            Size.Width = 295.000000000000000000
+            Size.Height = 17.000000000000000000
+            Size.PlatformDefault = False
+            TextSettings.Font.Size = 20.000000000000000000
+            TextSettings.FontColor = claRed
+            TextSettings.HorzAlign = Center
+            Text = 'CART'#195'O DIGITAL'
+            TabOrder = 0
+          end
+        end
+      end
+    end
+  end
+end
